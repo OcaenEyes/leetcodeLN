@@ -30,7 +30,7 @@ class Solution:
             # 把num1的值和位置i，存如hashmap中，
             hashmap[num1] =i
             # print('现在hashmap是',hashmap)
-        # print(list)
+        print(list)
         return list
 
 
